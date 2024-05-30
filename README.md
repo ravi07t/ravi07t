@@ -7,7 +7,7 @@ From the early days of tinkering with simple programs to now delving into comple
 
 
 <h1 align="left">Developed Projects 🔭</h1>
-<p align="left">To-do-list Web Application</p>
+<p align="left">• To-do-list Web Application</p>
 My Portfolio Website
 About to start creating a Hotel booking web application
 
