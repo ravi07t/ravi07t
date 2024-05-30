@@ -7,11 +7,11 @@ From the early days of tinkering with simple programs to now delving into comple
 
 
 <h1 align="left">Developed Projects 🔭</h1>
-<p align="left">• To-do-list Web Application</p>
-My Portfolio Website
-About to start creating a Hotel booking web application
+<p align="left">• Courier box Application</p>
+<p align="left">• My Portfolio Website</p>
+<p align="left">• E-commerce Book Store Application using JavaScript</p>
 
-- 🔭 I’m currently working on [Courier App](https://ravi07t.github.io/Courier-delivery-app/)
+- 🔭 I’m currently working on [React application]
 
 - 🌱 I’m currently learning **Node JS, AWS**
 
@@ -19,6 +19,7 @@ About to start creating a Hotel booking web application
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <p align="left">+91-6302646843</p>
 <a href="https://www.linkedin.com/in/1437-ravi-kumar-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/1437-ravi-kumar-" height="30" width="40" /></a>
 </p>
 
