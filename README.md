@@ -7,9 +7,10 @@ From the early days of tinkering with simple programs to now delving into comple
 
 
 <h1 align="left">Developed Projects 🔭</h1>
-To-do-list Web Application
+<p align="left">To-do-list Web Application</p>
 My Portfolio Website
 About to start creating a Hotel booking web application
+
 - 🔭 I’m currently working on [Courier App](https://ravi07t.github.io/Courier-delivery-app/)
 
 - 🌱 I’m currently learning **Node JS, AWS**
