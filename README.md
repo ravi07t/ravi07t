@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi07t&label=Profile%20views&color=0e75b6&style=flat" alt="ravi07t" /> </p>
 <h1 align="left">About me</h1>
-As a student pursuing my BSc. CA degree, I'm constantly exploring and honing my skills in software development. My journey began with a curiosity-driven passion for technology, and it has since evolved into a steadfast commitment to mastering the craft of coding. With a keen eye for detail and a knack for problem-solving, I thrive in the fast-paced and ever-evolving landscape of programming.
+From the early days of tinkering with simple programs to now delving into complex software solutions, I have consistently sought to expand my knowledge and refine my skills. I am deeply immersed in the world of software development. My journey began with an innate curiosity and passion for technology, which has grown over the years into a resolute commitment to mastering the intricate art of coding.
 
 - 🔭 I’m currently working on [Courier App](https://ravi07t.github.io/Courier-delivery-app/)
 
