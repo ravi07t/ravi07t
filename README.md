@@ -16,7 +16,7 @@ From the early days of tinkering with simple programs to now delving into comple
 - 🌱 I’m currently learning **Node JS, AWS**
 
 - 📫 How to reach me **konda.ravikumar037@gmail.com**
-- 📞 <p align="left">+91-6302646843</p>
+- 📞 +91-6302646843
 
 
 <h3 align="left">Connect with me:</h3>
