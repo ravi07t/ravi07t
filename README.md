@@ -7,7 +7,7 @@ From the early days of tinkering with simple programs to now delving into comple
 
 
 <h1 align="left">Developed Projects 🔭</h1>
-<p align="left">• Courier box Application [**https://ravi07t.github.io/Courier-delivery-app/**]</p>
+<p align="left">• Courier box Application [https://ravi07t.github.io/Courier-delivery-app/]</p>
 <p align="left">• My Portfolio Website</p>
 <p align="left">• E-commerce Book Store Application using JavaScript</p>
 
