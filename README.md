@@ -39,6 +39,9 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img align="center" src="https://cdn.pixabay.com/photo/2016/01/10/22/52/letters-1132703_1280.png" alt="Mail" height="37" width="37" />
   </a>
+  <a href="https://maps.app.goo.gl/tL5gsQZrRxTW6kR26" target="_blank">
+    <img align="center" src="https://cdn.pixabay.com/photo/2016/01/10/22/23/location-1132648_1280.png" alt="Mail" height="37" width="37" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
