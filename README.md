@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Node JS, AWS**
 
 - 📫 How to reach me **konda.ravikumar07@gmail.com**
-- 📞 +91-8940970163
+- 📞 +91-6302646843
 
 
 <h3 align="left">Connect with me:</h3>
