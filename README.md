@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/1437-ravi-kumar/" target="_blank">
-    <img align="center" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668696_1280.png" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668696_1280.png" alt="LinkedIn" height="50" width="50" />
   </a>
 </p>
 
