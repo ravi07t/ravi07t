@@ -8,7 +8,7 @@
 
 <h1 align="left">About me</h1>
 <p align="left">
-  From the early days of tinkering with simple programs to now delving into complex software solutions, I have consistently sought to expand my knowledge and refine my skills. I am deeply immersed in the world of software development. My journey began with an innate curiosity and passion for technology, which has grown over the years into a resolute commitment to mastering the intricate art of coding.
+  &nbsp;&nbsp;From the early days of tinkering with simple programs to now delving into complex software solutions, I have consistently sought to expand my knowledge and refine my skills. I am deeply immersed in the world of software development. My journey began with an innate curiosity and passion for technology, which has grown over the years into a resolute commitment to mastering the intricate art of coding.
 </p>
 
 <h1 align="left">Developed Projects 🔭</h1>
