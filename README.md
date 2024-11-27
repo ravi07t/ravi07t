@@ -8,8 +8,8 @@ From the early days of tinkering with simple programs to now delving into comple
 
 <h1 align="left">Developed Projects 🔭</h1>
 <p align="left">•  Book-store-app [https://ravi07t.github.io/Book-store-app/]</p>
-<!-- <p align="left">• My Portfolio Website [https://ravi07t.github.io/Ravi-Portfolio/]</p> -->
-<!-- <p align="left">• ECourier-delivery-app [https://ravi07t.github.io/Courier-delivery-app/]</p> -->
+<p align="left">•  My Portfolio Website [https://ravi07t.github.io/Ravi-Portfolio/]</p>
+<p align="left">•  ECourier-delivery-app [https://ravi07t.github.io/Courier-delivery-app/]</p>
 
 - 🔭 I’m currently working on [https://github.com/ravi07t/Chat-bot]
 
