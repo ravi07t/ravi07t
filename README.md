@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/1437-ravi-kumar/" target="_blank">
-    <img align="center" src="https://www.google.com/search?sca_esv=41165fec71bc817d&sxsrf=ADLYWILUizHFqftsjUP4VhLKltDmrltLOQ:1732710119421&q=linkedin+logo+40x30+px&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J03RPjGV0MznOJ6Likin94rtxCRB-KZnKMV4RyRovG_PDxn-EtieOVthDAs_X6rfuicFoOXUl5Le7uGgsgaCpGI7DSKar0TpHo8gp4M3EfIeCL4vZsm81QisfLQPGa0-k-qpx0eB5abSP-_qHXkvheArRwGS_7Eb9keIaIK8DwjWg0sLGA&sa=X&ved=2ahUKEwjOxaqZwPyJAxWeRmwGHfBWFTMQtKgLegQIFBAB&biw=1280&bih=585&dpr=1.5#imgrc=mssZppM7jkGfFM&imgdii=peJuZ5izSuQY0M" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn.pixabay.com/photo/2021/02/26/22/36/linkedin-6053397_1280.png" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
