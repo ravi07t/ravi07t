@@ -1,6 +1,5 @@
-<!--<h1 align="center">Hi I am, Ravi</h1>-->
-<!--<h3 align="center">A passionate frontend developer from India(★‿★)</h3> -->
-<a href="https://git.io/typing-svg"><img style="color: red" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+I'm+Ravi+kumar;Welcome+to+my+world+of+coding" alt="Typing SVG" /></a>
+<h1 align="center">Hi I am, Ravi</h1>
+<h3 align="center">A passionate frontend developer from India(★‿★)</h3>
 
 <!-- Profile Views Counter -->
 <p align="left">
