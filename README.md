@@ -25,7 +25,7 @@
   🌱 I’m currently learning <strong>Node JS, AWS</strong>
 </p>
 <p align="left">
-  📫 How to reach me: <a href="mailto:konda.ravikumar07@gmail.com">konda.ravikumar07@gmail.com</a>
+  📫 How to reach me: <a href="mailto:konda.ravikumar037@gmail.com">konda.ravikumar037@gmail.com</a>
 </p>
 <p align="left">
   📞 Contact: +91-6302646843
