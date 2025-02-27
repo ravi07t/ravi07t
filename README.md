@@ -16,14 +16,30 @@
 </details>
 
 <h1 align="left">Developed Projects 🔭</h1>
-<ul>
+<!-- <ul>
   <li>CRM_React+Vite+MUI: <a href="https://login360.info/login" target="_blank">View Project</a></li>
   <li>Book-store-app: <a href="https://ravi07t.github.io/Book-store-app/" target="_blank">View Project</a></li>
   <li>My Portfolio Website: <a href="https://ravi07t.github.io/Ravi-Portfolio/" target="_blank">View Project</a></li>
   <li>ECourier-delivery-app: <a href="https://ravi07t.github.io/Courier-delivery-app/" target="_blank">View Project</a></li>
   <li>Login360-offer-page: <a href="https://login360.org/" target="_blank">View Project</a></li>
   <li>Bootstrap-project: <a href="https://ravi07t.github.io/Bootstrap_project/" target="_blank">View Project</a></li>
-</ul>
+</ul> -->
+
+<table align="center">
+  <tr>
+    <td>CRM_React+Vite+MUI: <a href="https://login360.info/login" target="_blank">View Project</a></td>
+    <td>Book-store-app: <a href="https://ravi07t.github.io/Book-store-app/" target="_blank">View Project</a></td>
+  </tr>
+  <tr>
+    <td>My Portfolio Website: <a href="https://ravi07t.github.io/Ravi-Portfolio/" target="_blank">View Project</a></td>
+    <td>ECourier-delivery-app: <a href="https://ravi07t.github.io/Courier-delivery-app/" target="_blank">View Project</a></td>
+  </tr>
+  <tr>
+    <td>Login360-offer-page: <a href="https://login360.org/" target="_blank">View Project</a></td>
+    <td>Bootstrap-project: <a href="https://ravi07t.github.io/Bootstrap_project/" target="_blank">View Project</a></td>
+  </tr>
+</table>
+
 
 <p align="left">
   🔭 I’m currently working on: <a href="https://github.com/ravi07t/Chat-bot" target="_blank">Chat-bot</a>
