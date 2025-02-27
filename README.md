@@ -1,12 +1,6 @@
 <h1 align="center">Hi I am, Ravi</h1>
 <h3 align="center">A passionate frontend developer from India(★‿★)</h3>
 
-<details>
-  <summary>Click to expand</summary>
-  Hidden content here.
-</details>
-
-
 <!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ravi07t&label=Profile%20views&color=0e75b6&style=flat" alt="ravi07t" />
@@ -16,6 +10,10 @@
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the early days of tinkering with simple programs to now delving into complex software solutions, I have consistently sought to expand my knowledge and refine my skills. I am deeply immersed in the world of software development. My journey began with an innate curiosity and passion for technology, which has grown over the years into a resolute commitment to mastering the intricate art of coding.
 </p>
+<details>
+  <summary>**Expand to Know about my Experience**</summary>
+  I am a self-driven and skilled Front-end Developer with over 8 months of experience working on CRM (Customer Relationship Management) and PMS (Performance Management System) projects. I am good at using ReactJS, Redux, CSS, HTML, JavaScript, MUI, and Component Driven Development (CDD). I follow Agile methods and focus on writing clean, reusable code to build efficient and easy-to-maintain applications.
+</details>
 
 <h1 align="left">Developed Projects 🔭</h1>
 <ul>
