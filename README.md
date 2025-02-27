@@ -1,6 +1,12 @@
 <h1 align="center">Hi I am, Ravi</h1>
 <h3 align="center">A passionate frontend developer from India(★‿★)</h3>
 
+<details>
+  <summary>Click to expand</summary>
+  Hidden content here.
+</details>
+
+
 <!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ravi07t&label=Profile%20views&color=0e75b6&style=flat" alt="ravi07t" />
