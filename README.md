@@ -11,7 +11,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the early days of tinkering with simple programs to now delving into complex software solutions, I have consistently sought to expand my knowledge and refine my skills. I am deeply immersed in the world of software development. My journey began with an innate curiosity and passion for technology, which has grown over the years into a resolute commitment to mastering the intricate art of coding.
 </p>
 <details>
-  <summary>**Expand to Know about my Experience**</summary>
+  <summary>*🧑‍💻Expand to Know about my Experience</summary>
   I am a self-driven and skilled Front-end Developer with over 8 months of experience working on CRM (Customer Relationship Management) and PMS (Performance Management System) projects. I am good at using ReactJS, Redux, CSS, HTML, JavaScript, MUI, and Component Driven Development (CDD). I follow Agile methods and focus on writing clean, reusable code to build efficient and easy-to-maintain applications.
 </details>
 
