@@ -25,7 +25,7 @@
   <li>Bootstrap-project: <a href="https://ravi07t.github.io/Bootstrap_project/" target="_blank">View Project</a></li>
 </ul> -->
 
-<table align="center">
+<table>
   <tr>
     <td>CRM_React+Vite+MUI: <a href="https://login360.info/login" target="_blank">View Project</a></td>
     <td>Book-store-app: <a href="https://ravi07t.github.io/Book-store-app/" target="_blank">View Project</a></td>
