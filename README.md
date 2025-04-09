@@ -35,10 +35,12 @@
   <tr>
     <td>My Portfolio Website: <a href="https://ravi07t.github.io/Ravi-Portfolio/" target="_blank">View Project</a></td>
     <td>ECourier-delivery-app: <a href="https://ravi07t.github.io/Courier-delivery-app/" target="_blank">View Project</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>Login360-offer-page: <a href="https://login360.org/" target="_blank">View Project</a></td>
     <td>Bootstrap-project: <a href="https://ravi07t.github.io/Bootstrap_project/" target="_blank">View Project</a></td>
+    <td></td>
   </tr>
 </table>
 
