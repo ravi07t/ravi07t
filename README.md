@@ -12,7 +12,7 @@
 </p>
 <details>
   <summary>*🧑‍💻Expand to Know about my Experience</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am skilled Front-end Developer with over 10+ months of experience working on CRM (Customer Relationship Management) and PMS (Performance Management System) projects. I am good at using ReactJS, Redux, CSS, HTML, JavaScript, MUI, and Component Driven Development (CDD). I follow Agile methods and focus on writing clean, reusable code to build efficient and easy-to-maintain applications.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am skilled Front-end Developer with over 1 year of experience working on CRM (Customer Relationship Management) and PMS (Performance Management System) projects. I am good at using ReactJS, Redux, CSS, HTML, JavaScript, MUI, and Component Driven Development (CDD). I follow Agile methods and focus on writing clean, reusable code to build efficient and easy-to-maintain applications.
 </details>
 
 <h1 align="left">Developed Projects 🔭</h1>
