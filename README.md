@@ -1,14 +1,17 @@
-<h1 align="center">Hi I am, Ravi</h1>
+<!-- <h1 align="center">Hi I am, Ravi</h1> -->
+<h1 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://github.com/ravi07t">Ravi</a></b>
+        </samp>
+</h1>
+<h3 align="center">A passionate frontend developer from India(★‿★)</h3>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=151515&center=true&width=435&lines=Front-end++Developer;2%2B+years+of+coding+experience+;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
 </p>
-<h3 align="center">A passionate frontend developer from India(★‿★)</h3>
-
 <!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ravi07t&label=Profile%20views&color=0e75b6&style=flat" alt="ravi07t" />
 </p>
-
 <h1 align="left">About me</h1>
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the early days of tinkering with simple programs to now delving into complex software solutions, I have consistently sought to expand my knowledge and refine my skills. I am deeply immersed in the world of software development. My journey began with an innate curiosity and passion for technology, which has grown over the years into a resolute commitment to mastering the intricate art of coding.
