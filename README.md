@@ -146,7 +146,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ravi07t&show_icons=true&locale=en" alt="ravi" />
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ravi07t&theme=whatsapp-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&background=45%2CE0EBB71D%2CC1EBD3&border=CFEBA4" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ravi07t&theme=whatsapp-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&background=45%2CE0EBB71D%2F8F4F23&border=CDCDCD" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravi07t&theme=transparent" alt="Ravi's GitHub Contribution"/>
