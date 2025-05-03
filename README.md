@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-
+<img align="right" width="350" src="/giphy.gif" alt="Coding gif" />
 <p align="left">
   🔭 I’m currently working on: <a href="https://github.com/ravi07t/Chat-bot" target="_blank">Chat-bot</a>
 </p>
