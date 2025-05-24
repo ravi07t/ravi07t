@@ -5,7 +5,7 @@
         </samp>
 </h1>
 <h3 align="center">A passionate frontend developer from India(★‿★)</h3>
-<p align="center"> mg src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=151515&center=true&width=435&lines=Front-end++Developer;2%2B+years+of+coding+experience+;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=151515&center=true&width=435&lines=Front-end++Developer;2%2B+years+of+coding+experience+;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
 </p>
 <!-- Profile Views Counter -->
 <p align="left">
