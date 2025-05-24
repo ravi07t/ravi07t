@@ -1,12 +1,11 @@
-<!-- <h1 align="center">Hi I am, Ravi</h1> -->
+..<!-- <h1 align="center">Hi I am, Ravi</h1> -->
 <h1 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/ravi07t">Ravi</a></b>
         </samp>
 </h1>
 <h3 align="center">A passionate frontend developer from India(★‿★)</h3>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=151515&center=true&width=435&lines=Front-end++Developer;2%2B+years+of+coding+experience+;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
+<p align="center"> mg src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=151515&center=true&width=435&lines=Front-end++Developer;2%2B+years+of+coding+experience+;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
 </p>
 <!-- Profile Views Counter -->
 <p align="left">
@@ -46,7 +45,7 @@
   <tr>
     <td>Login360-offer-page: <a href="https://login360.org/" target="_blank">View Project</a></td>
     <td>Bootstrap-project: <a href="https://ravi07t.github.io/Bootstrap_project/" target="_blank">View Project</a></td>
-    <td></td>
+    <td>FOOD-PARK: <a href="https://food-park-livid.vercel.app/">View Project</a></td>
   </tr>
 </table>
 
