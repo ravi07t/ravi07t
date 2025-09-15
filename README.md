@@ -5,8 +5,8 @@
         </samp>
 </h1>
 <h3 align="center">A passionate frontend developer from India(★‿★)</h3>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=151515&center=true&width=435&lines=Front-end++Developer;3%2B+years+of+coding+experience+;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
-</p>
+<!--<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=151515&center=true&width=435&lines=Front-end++Developer;3%2B+years+of+coding+experience+;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
+</p>-->
 <!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ravi07t&label=Profile%20views&color=0e75b6&style=plastic" alt="ravi07t" />
@@ -15,10 +15,10 @@
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the early days of tinkering with simple programs to now delving into complex software solutions, I have consistently sought to expand my knowledge and refine my skills. I am deeply immersed in the world of software development. My journey began with an innate curiosity and passion for technology, which has grown over the years into a resolute commitment to mastering the intricate art of coding.
 </p>
-<details>
+<!--<details>
   <summary>*🧑‍💻Expand to Know about my Experience</summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am skilled Front-end Developer with over 3+ year of experience working on Restaurant(eazydiner)application, CRM (Customer Relationship Management) and PMS (Performance Management System) projects. I am good at using ReactJS, Redux, CSS, HTML, JavaScript, MUI, and Component Driven Development (CDD). I follow Agile methods and focus on writing clean, reusable code to build efficient and easy-to-maintain applications.
-</details>
+</details>-->
 
 <h1 align="left">Developed Projects 🔭</h1>
 <!-- <ul>
